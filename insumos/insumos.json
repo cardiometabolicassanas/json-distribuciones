@@ -1,0 +1,49 @@
+{
+  "insumos": [
+    {
+      "clave": "259000000022",
+      "nombre_genérico": "Antígeno Prostático",
+      "descripcion": "",
+      "contenido": "",
+      "presentacion": "",
+      "cedula": 0,
+      "estrato": 0
+    },
+    {
+      "clave": "080.889.2632",
+      "nombre_genérico": "Microalbuminuria",
+      "descripcion": "",
+      "contenido": "",
+      "presentacion": "",
+      "cedula": 0,
+      "estrato": 0
+    },
+    {
+      "clave": "531.048.0297.PP",
+      "nombre_genérico": "Lípidos",
+      "descripcion": "",
+      "contenido": "",
+      "presentacion": "",
+      "cedula": 0,
+      "estrato": 0
+    },
+    {
+      "clave": "533.342.1518.00",
+      "nombre_genérico": "Hemoglobina Glucosilada",
+      "descripcion": "",
+      "contenido": "",
+      "presentacion": "",
+      "cedula": 0,
+      "estrato": 0
+    },
+    {
+      "clave": "080.889.2533.U",
+      "nombre_genérico": "Glucosa",
+      "descripcion": "",
+      "contenido": "",
+      "presentacion": "",
+      "cedula": 0,
+      "estrato": 0
+    }
+  ]
+}

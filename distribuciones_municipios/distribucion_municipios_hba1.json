@@ -1,0 +1,400 @@
+{
+  "distribuciones": [
+    {
+      "folio_baja": "HEMOGLOBINA  GLUCOSILADA",
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA000515",
+      "datetime_inicio": " 2026-04-28 15:00:00",
+      "datetime_termino": "2026-04-28 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC260001073",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.LAN",
+          "lote": "26013803",
+          "caducidad": "2031-02-02",
+          "cantidad": 1400
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA005736",
+      "datetime_inicio": "2026-04-28 15:00:00",
+      "datetime_termino": "2026-04-28 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC26001074",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.LAN",
+          "lote": "28013803",
+          "caducidad": "2031-02-02",
+          "cantidad": 2500
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA001010",
+      "datetime_inicio": "2026-04-28 15:00:00",
+      "datetime_termino": "2026-04-28 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC26001076",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.LAN",
+          "lote": "26013803",
+          "caducidad": "2031-02-02",
+          "cantidad": 1500
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA017006",
+      "datetime_inicio": "2026-06-26 15:00:00",
+      "datetime_termino": "2026-04-28 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC260001077",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.LAN",
+          "lote": "26013803",
+          "caducidad": "2031-02-02",
+          "cantidad": 1600
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA017562",
+      "datetime_inicio": "2026-04-28 15:00:00",
+      "datetime_termino": "2026-04-28 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC260001078",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.LAN",
+          "lote": "26013803",
+          "caducidad": "2031-02-02",
+          "cantidad": 1100
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA005741",
+      "datetime_inicio": "2026-04-28 15:00:00",
+      "datetime_termino": "2026-04-28 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC260001079",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.LAN",
+          "lote": "26013803",
+          "caducidad": "2031-02-02",
+          "cantidad": 2200
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA0005794",
+      "datetime_inicio": "2026-04-28 15:00:00",
+      "datetime_termino": "2026-04-28 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC260001080",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.LAN",
+          "lote": "26013803",
+          "caducidad": "2031-02-02",
+          "cantidad": 900
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA017093",
+      "datetime_inicio": "2026-04-28 15:00:00",
+      "datetime_termino": "2026-04-28 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC260001081",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.LAN",
+          "lote": "26013803",
+          "caducidad": "2028-04-28",
+          "cantidad": 200
+        }
+      ]
+    },
+    {
+      "folio_baja": "HEMOGLOBINA GLICADA LOTE F2071A40CAD",
+      "fecha_baja": "2025-03-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA000515",
+      "datetime_inicio": "2025-03-19 15:00:00",
+      "datetime_termino": "2025-03-19 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC260000488",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2025-03-19 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "080.889.2533-U",
+          "lote": "533.342.1518.00",
+          "caducidad": "2026-05-29",
+          "cantidad": 1000
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2025-03-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA005736",
+      "datetime_inicio": "2025-03-19 15:00:00",
+      "datetime_termino": "2025-03-19 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC250000489",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2025-03-19 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "F2071A40CAD",
+          "caducidad": "2026-05-29",
+          "cantidad": 1100
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2025-03-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA0055555",
+      "datetime_inicio": "2025-03-19 15:00:00",
+      "datetime_termino": "2025-03-19 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC250000490",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2025-03-19 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "F2071A40CAD",
+          "caducidad": "2026-05-29",
+          "cantidad": 3600
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2025-03-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA001010",
+      "datetime_inicio": "2025-03-19 15:00:00",
+      "datetime_termino": "2025-03-19 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC250000491",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2025-03-19 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "F2071A40CAD",
+          "caducidad": "2026-05-29",
+          "cantidad": 1000
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2025-03-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA017006",
+      "datetime_inicio": "2025-03-19 15:00:00",
+      "datetime_termino": "2025-03-19 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC250000492",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2025-03-19 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "F2071A40CAD",
+          "caducidad": "2026-05-29",
+          "cantidad": 900
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2025-03-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA017562",
+      "datetime_inicio": "2025-03-19 15:00:00",
+      "datetime_termino": "2025-03-19 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC250000493",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2025-03-19 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "F2071A40CAD",
+          "caducidad": "2026-05-29",
+          "cantidad": 1800
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2025-03-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA005741",
+      "datetime_inicio": "2025-03-19 15:00:00",
+      "datetime_termino": "2025-03-19 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC250000494",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2025-03-19 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342,1518.00",
+          "lote": "F2071A40CAD",
+          "caducidad": "2026-05-29",
+          "cantidad": 1200
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2025-03-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA0005794",
+      "datetime_inicio": "2025-03-19 15:00:00",
+      "datetime_termino": "2025-03-19 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC250000495",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2025-03-19 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "F2071A40CAD",
+          "caducidad": "2026-05-29",
+          "cantidad": 800
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2025-03-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA017093",
+      "datetime_inicio": "2025-03-19 15:00:00",
+      "datetime_termino": "2025-03-19 15:00:00",
+      "observaciones": "",
+      "documento_declarante": "SC250000496",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2025-03-19 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "F2071A40CAD",
+          "caducidad": "2026-05-29",
+          "cantidad": 600
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-05-14",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "ISAPEG",
+      "unidad_destino": "GTSSA016510",
+      "datetime_inicio": "2026-05-14 15:00:00",
+      "datetime_termino": "2026-05-14 15:00:00",
+      "observaciones": "EACf260000136",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-05-14 15:00:00",
+      "cerrada": 1,
+      "insumos": [
+        {
+          "clave": "531.048.0287.PP",
+          "lote": "250904T",
+          "caducidad": "2027-08-04",
+          "cantidad": 7775
+        }
+      ]
+    }
+  ]
+}

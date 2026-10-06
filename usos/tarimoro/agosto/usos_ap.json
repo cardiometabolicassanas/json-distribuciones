@@ -1,0 +1,251 @@
+{
+  "usos": [
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA005741",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 12
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA004476",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA004481",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "APOYO ECMB",
+      "clues_origen": "GTSSA004481",
+      "clues_destino": "GTSSA005741",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 17
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA004493",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 5
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "SIN USO",
+      "clues_origen": "GTSSA004505",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA004510",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 6
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "SIN USO",
+      "clues_origen": "GTSSA004522",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "SIN USO",
+      "clues_origen": "GTSSA004534",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA004546",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA004551",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 17
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA004563",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 9
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-09-05",
+      "inicio": "2026-08-01 00:00:00",
+      "termino": "2026-08-31 23:59:59",
+      "motivo": "SIN USO",
+      "clues_origen": "GTSSA004575",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 0
+        }
+      ]
+    }
+  ]
+}

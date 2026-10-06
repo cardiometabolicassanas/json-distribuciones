@@ -1,0 +1,40 @@
+{
+  "usos": [
+    {
+      "folio_baja": "",
+      "inicio": "2026-07-01 00:00:00",
+      "termino": "2026-07-31 23:59:59",
+      "motivo": "",
+      "clues_origen": "",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-08-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "",
+          "lote": "",
+          "caducidad": "",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "inicio": "2026-07-01 00:00:00",
+      "termino": "2026-07-31 23:59:59",
+      "motivo": "",
+      "clues_origen": "",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-08-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "",
+          "lote": "",
+          "caducidad": "",
+          "cantidad": 0
+        }
+      ]
+    }
+  ]
+}

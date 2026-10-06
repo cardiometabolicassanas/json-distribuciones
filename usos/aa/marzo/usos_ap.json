@@ -1,0 +1,156 @@
+{
+  "usos": [
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-05",
+      "inicio": "2026-03-01 00:00:00",
+      "termino": "2026-03-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA000515",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-04-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 63
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-05",
+      "inicio": "2026-03-01 00:00:00",
+      "termino": "2026-03-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA000520",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-04-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 23
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-05",
+      "inicio": "2026-03-01 00:00:00",
+      "termino": "2026-03-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA005724",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-04-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-05",
+      "inicio": "2026-03-01 00:00:00",
+      "termino": "2026-03-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA005386",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-04-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-05",
+      "inicio": "2026-03-01 00:00:00",
+      "termino": "2026-03-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA000544",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-04-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-05",
+      "inicio": "2026-03-01 00:00:00",
+      "termino": "2026-03-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA000556",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-04-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-05",
+      "inicio": "2026-03-01 00:00:00",
+      "termino": "2026-03-31 23:59:59",
+      "motivo": "UTILIZADOS",
+      "clues_origen": "GTSSA000573",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-04-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "folio_baja": "",
+      "fecha_baja": "2026-04-05",
+      "inicio": "2026-03-01 00:00:00",
+      "termino": "2026-03-31 23:59:59",
+      "motivo": "SIN USO",
+      "clues_origen": "GTSSA000561",
+      "clues_destino": "",
+      "usuario_registro": 0,
+      "fecha_registro": "2026-04-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 0
+        }
+      ]
+    }
+  ]
+}
