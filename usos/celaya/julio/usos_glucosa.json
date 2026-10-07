@@ -1,15 +1,14 @@
 {
   "usos": [
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000795",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000795",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -20,15 +19,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "DESPERDICIO",
-      "clues_origen": "GTSSA000795",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA000795",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -39,15 +37,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000800",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000800",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -58,15 +55,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000812",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000812",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -77,15 +73,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "DESPERDICIO",
-      "clues_origen": "GTSSA000812",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA000812",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -96,15 +91,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000824",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000824",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -115,15 +109,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000836",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000836",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -134,15 +127,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "DESPERDICIO",
-      "clues_origen": "GTSSA000836",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA000836",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -153,15 +145,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000841",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000841",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -172,15 +163,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000853",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000853",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -191,15 +181,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000865",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000865",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -210,15 +199,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000870",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000870",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -229,15 +217,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "DESPERDICIO",
-      "clues_origen": "GTSSA000870",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA000870",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -248,15 +235,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000882",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000882",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -267,15 +253,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000894",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000894",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -286,15 +271,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000906",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000906",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -305,15 +289,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000911",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000911",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -324,15 +307,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "DESPERDICIO",
-      "clues_origen": "GTSSA000911",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA000911",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -343,15 +325,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000923",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000923",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -362,15 +343,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA005555",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA005555",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -381,15 +361,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA016772",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA016772",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -400,15 +379,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA016830",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA016830",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -419,15 +397,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA017320",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA017320",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -438,15 +415,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "DESPERDICIO",
-      "clues_origen": "GTSSA017320",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA017320",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -457,15 +433,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA005876",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA005876",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -476,15 +451,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000795",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000795",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -495,15 +469,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "UTILIZADOS",
-      "clues_origen": "GTSSA000800",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000800",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -514,15 +487,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "DESPERDICIO",
-      "clues_origen": "GTSSA000800",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA000800",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -533,15 +505,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000812",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000812",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -552,15 +523,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000824",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000824",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -571,15 +541,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000836",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000836",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -590,15 +559,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000841",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000841",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -609,15 +577,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000853",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000853",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -628,15 +595,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000865",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000865",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -647,15 +613,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000870",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000870",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -666,15 +631,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000882",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000882",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -685,15 +649,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000894",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000894",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -704,15 +667,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000906",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000906",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -723,15 +685,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000911",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000911",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -742,15 +703,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA000923",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000923",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -761,15 +721,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA005555",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA005555",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -780,15 +739,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA016772",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA016772",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -799,15 +757,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA016830",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA016830",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -818,15 +775,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA017320",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA017320",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -837,15 +793,14 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-08-05",
-      "inicio": "2026-07-01 00:00:00",
-      "termino": "2026-07-31 23:59:59",
-      "motivo": "SIN USO",
-      "clues_origen": "GTSSA005876",
-      "clues_destino": "",
-      "usuario_registro": 0,
-      "fecha_registro": "2026-08-05 12:00:00",
+      "datetime_inicio": "2026-07-01 00:00:00",
+      "datetime_termino": "2026-07-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA005876",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "080.889.2533.U",

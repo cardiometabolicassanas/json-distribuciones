@@ -1,18 +1,13 @@
 {
-  "distribucion": [
+  "distribuciones": [
     {
-      "folio_baja": "MICROALBUMINURIA",
       "fecha_baja": "2026-04-28",
       "motivo_baja": "DISTRIBUCIÓN",
       "unidad_baja": "GTSSA016510",
       "unidad_destino": "GTSSA005555",
-      "datetime_inicio": "2026-04-28 15:00:00",
-      "datetime_termino": "2026-04-28 15:00:00",
-      "observaciones": "",
       "documento_declarante": "SC260001085",
       "usuario_registro_baja": 0,
       "fecha_registro_baja": "2026-04-28 15:00:00",
-      "cerrada": 1,
       "insumos": [
         {
           "clave": "080.889.2632",

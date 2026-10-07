@@ -1,18 +1,13 @@
 {
   "distribuciones": [
     {
-      "folio_baja": "",
       "fecha_baja": "2026-06-26",
       "motivo_baja": "DISTRIBUCIÓN",
       "unidad_baja": "GTSSA016510",
       "unidad_destino": "GTSSA005555",
-      "datetime_inicio": "2026-06-26 15:00:00",
-      "datetime_termino": "2026-06-26 15:00:00",
-      "observaciones": "",
       "documento_declarante": "SC260001956",
       "usuario_registro_baja": 0,
       "fecha_registro_baja": "2026-06-26 15:00:00",
-      "cerrada": 1,
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -23,18 +18,13 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-06-26",
       "motivo_baja": "DISTRIBUCIÓN",
       "unidad_baja": "GTSSA016510",
       "unidad_destino": "GTSSA005555",
-      "datetime_inicio": "2026-06-26 15:00:00",
-      "datetime_termino": "2026-06-26 15:00:00",
-      "observaciones": "",
       "documento_declarante": "SC260001066",
       "usuario_registro_baja": 0,
       "fecha_registro_baja": "2026-06-26 15:00:00",
-      "cerrada": 1,
       "insumos": [
         {
           "clave": "080.889.2533.U",
@@ -45,18 +35,13 @@
       ]
     },
     {
-      "folio_baja": "",
       "fecha_baja": "2026-04-06",
       "motivo_baja": "DISTRIBUCIÓN",
       "unidad_baja": "GTSSA016510",
       "unidad_destino": "GTSSA005555",
-      "datetime_inicio": "2026-04-06 15:00:00",
-      "datetime_termino": "2026-04-06 15:00:00",
-      "observaciones": "",
       "documento_declarante": "SC260000821",
       "usuario_registro_baja": 0,
       "fecha_registro_baja": "2026-04-06 15:00:00",
-      "cerrada": 1,
       "insumos": [
         {
           "clave": "080.889.2533.U",
