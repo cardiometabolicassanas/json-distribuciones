@@ -1,0 +1,448 @@
+{
+  "distribuciones": [
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000590",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 600
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000602",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 300
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000614",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 150
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000626",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 550
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000631",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 350
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA016755",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 200
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000643",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 400
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA016760",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 300
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000655",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 200
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000660",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 700
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000672",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 500
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000684",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 300
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000696",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 300
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000590",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 600
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000602",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 300
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000614",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 150
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000626",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 550
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000631",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 350
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA016755",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 200
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000643",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 400
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA016760",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 300
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000655",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 200
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000660",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 700
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000672",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 500
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000684",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 300
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-26",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000696",
+      "documento_declarante": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-06-26 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2533.U",
+          "lote": "I2BIZ2E05",
+          "caducidad": "2028-02-29",
+          "cantidad": 300
+        }
+      ]
+    }
+  
+
+  ]
+}
